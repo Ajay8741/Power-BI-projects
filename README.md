@@ -1,4 +1,4 @@
-# Power-BI-projects
+# Chocolate Company HR DATA
 
  Power BI project of a chocolate company HR DATA, I have done the following steps while making this interactive dashboard.
 
